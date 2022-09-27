@@ -1,6 +1,10 @@
-import React from 'react';
-import '../../App.css';
+import React from 'react'
+import Cards from '../Cards';
 
-export default function Services() {
-  return <h1 className='services'>SERVICES</h1>;
+function Services() {
+  return (
+   <Cards />
+  )
 }
+
+export default Services;

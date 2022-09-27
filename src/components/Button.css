@@ -38,6 +38,6 @@
   .btn--medium:hover {
     transition: all 0.3s ease-out;
     background: #fff;
-    color: #242424;
+    color: #2d3e52;
     transition: 250ms;
   }
