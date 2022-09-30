@@ -5,7 +5,7 @@ function InfoSection() {
   return (
     <div className="main"><h1>About Us</h1>
     <div className="section-container">       
-        <img className="column image" src="/images/img-3.jpg" />
+        <img className="column image" src="/images/img-3.jpg" alt="for about" />
         <div className="column content">
         <h5>why choose us?</h5>
         <p>
